@@ -1,4 +1,4 @@
-# 注意，本项目是基于 https://github.com/rockerhieu/emojiconize修改了gradle配置文件使其成为可编译的项目
+# 注意，本项目是基于 https://github.com/rockerhieu/emojiconize 修改了gradle配置文件使其成为可编译的项目
 
 
 
